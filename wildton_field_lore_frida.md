@@ -55,20 +55,6 @@ Frida learned to prepare hearthroot balm from her aunt and often keeps a small j
 
 In Wildton, a home without hearthroot balm is seen as poorly tended, regardless of wealth.
 
----
-
-## Ashleaf Drying Rack
-
-**Type:** Household Structure\
-**Region:** Common in mountain cottages around Wildton
-
-A simple wooden frame strung with thin cords, used for air-drying herbs, roots, and small fungi. Ashleaf branches are favored for the frame, as they resist mold and hold their shape through seasonal damp.
-
-The rack is usually placed near a hearth or sheltered wall where air circulates gently. Proper spacing matters more than heat; overcrowded racks spoil quickly.
-
-Frida uses her drying rack year-round, adjusting what hangs there with the seasons. A well-kept rack is taken as a sign of attentiveness rather than abundance.
-
-In Wildton, an empty rack in harvest season draws quiet concern.
 
 ---
 
@@ -83,13 +69,5 @@ The buttons come from mended coats, traded garments, lost travelers, and items n
 
 Frida keeps the jar near her work table and often sorts through it while thinking. Choosing the *right* button for a repair is considered a small but telling decision.
 
-In Wildton, offering someone a button from your jar is a quiet sign of trust: it means you expect them to return something worth fixing.
-
 ---
-
----
-
----
-
-*End of Field Lore Entries*
 
