@@ -1,7 +1,6 @@
 ## Frida’s Mountain Cottage
 
 **Type:** Location  
-**Associated:** Frida, Aphrodite  
 **Tone:** Warm, modest, introspective  
 **Sensory Anchor:** Pine resin, woodsmoke, wind in high branches
 
